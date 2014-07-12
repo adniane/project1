@@ -4,7 +4,7 @@ EXPLORATORY DATA ANALYSIS
 Project 1
 ----------
 
-#### Welcome to the repository
+# Welcome to the repository
 
 **Dataset:** Electric power consumption
 
@@ -14,10 +14,10 @@ one-minute sampling rate over a period of almost 4 years.
 >Different electrical quantities and some sub-metering values are available.
 
 **Names of Plot files:** 
-*plot1.png 
-+plot2.png 
+-plot1.png 
+-plot2.png 
 -plot3.png 
-xplot4.png
+-plot4.png
 
 **Names of R code files:** 
 1. plot1.R
@@ -25,8 +25,9 @@ xplot4.png
 3. plot3.R
 4. plot4.R
 
-### This is how the R code files look like `See below`
+## This is how the R code files look like :
 
-## **Plot 1**
+*Plot 1*
+
 
 
