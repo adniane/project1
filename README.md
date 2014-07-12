@@ -1,12 +1,11 @@
-EXPLORATORY DATA ANALYSIS 
+WELCOME TO THE REPOSITORY 
 =========================
 
 Project 1
 ----------
 
-# Welcome to the repository
-
-**Dataset:** Electric power consumption
+#Dataset:
+**Electric power consumption**
 
 **Description:** 
 >Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
