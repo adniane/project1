@@ -15,9 +15,7 @@ Project 1
 
 **Names of R code files:** plot1.R, plot2.R, plot3.R, plot4.R 
 
-## This is how the R code files look like :
 
-*Plot 1*
 
 
 
